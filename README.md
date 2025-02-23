@@ -124,6 +124,7 @@
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，多语言实现。[在线体验](https://sort.hust.cc/)
 - [Python](https://github.com/TheAlgorithms/Python) - 用 `Python` 实现所有算法。[在线体验](https://thealgorithms.github.io/Python/)
 - [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - 《算法新解》。
+- [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 `LLM` 入门教程。[在线体验](https://datawhalechina.github.io/llm-cookbook/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -163,7 +164,6 @@
 - [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
 - [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的 `Api` 接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
 - [technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份 `Java` 程序员的技术指南，涵盖面试题、系统架构、职场锦囊、主流中间件等。[在线文档](https://offercome.cn/)
-- [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
 - [six-finger](https://github.com/bin392328206/six-finger) - 从 `Java` 基础、`JavaWeb` 基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了 `Java` 必备的知识点。
 - [screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器。
@@ -338,6 +338,8 @@
 - [annotree](https://github.com/itchaox/annotree) - 生成文件夹目录注释树。[在线文档](https://www.annotree.com/)
 - [tts-vue](https://github.com/LokerL/tts-vue) - 基于 `Electron` + `Vue` + `ElementPlus` + `Vite` 构建的**微软语音合成工具**。[在线文档](https://tts-doc.loker.vip/home.html)
 - [gi-demo](https://github.com/lin-97/gi-demo) - 一个基于 `Vue3`、`Vite`、`TypeScript`、`Arco Design Vue`、`Pinia`、`VueUse` 等的免费中后台模版。[在线体验](https://lin-97.github.io/gi-demo/)
+- [liubai](https://github.com/yenche123/liubai) - 一个集笔记、日程、待办清单和任务管理于一体的工具。[在线体验](https://my.liubai.cc/) [在线文档](https://docs.liubai.cc/)
+- [basic](https://github.com/fantastic-admin/basic) - 一款开箱即用的 `Vue` 中后台管理系统框架。[在线体验](https://fantastic-admin.hurui.me/basic-example/#/) [在线文档](https://fantastic-admin.hurui.me/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -347,7 +349,7 @@
 - [tide](https://gitee.com/oschina/tide) - 开箱即用、扩展性强、支持 `Markdown` 语法、基础功能完善的 `React` 富文本编辑器。
 - [molecule](https://github.com/DTStack/molecule) - 一个轻量的 `Web` `IDE` `UI` 框架。[在线体验](https://dtstack.github.io/molecule-examples/#/)
 - [illa-builder](https://github.com/illacloud/illa-builder) - 一个强大的开源低代码平台。
-- [movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)
+- ~~[movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)~~
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 开箱即用的中台前端/设计解决方案。[在线体验](https://preview.pro.ant.design/dashboard/analysis) [在线文档](https://pro.ant.design/zh-CN/docs/overview)
 - [qwerty-learner](https://github.com/RealKai42/qwerty-learner/) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。[在线体验](https://qwerty.kaiyi.cool/)
 - [MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器。[在线文档](https://musicfree.upup.fun/)
@@ -360,6 +362,9 @@
 - [LiveTerm](https://github.com/Cveinnt/LiveTerm) - 在几分钟内构建终端风格的网站。[在线体验](https://liveterm.vercel.app/)
 - [umami](https://github.com/umami-software/umami) - 一个开源的网站统计工具，可以用来分析网站的访问数据。[在线体验](https://eu.umami.is/share/LGazGOecbDtaIwDr/umami.is)
 - [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
+- [newsnow](https://github.com/ourongxing/newsnow) - 优雅地阅读实时热门新闻。[在线体验](https://newsnow.busiyi.world/)
+- [win11React](https://github.com/blueedgetechno/win11React) - 基于 `React` 复刻 `Win11`. [在线体验](https://win11.blueedge.me/)
+- [pointless](https://github.com/kkoomen/pointless) - 一个基于 `React` 开源的绘图画布应用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -389,7 +394,6 @@
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 全面和详尽的 `JavaScript` 和 `Node.js` 测试最佳实践。
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 用 `JavaScript` 实现算法和数据结构。
 - [win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版。[在线体验](https://tjy-gitnub.github.io/win12/desktop.html)
-- [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - `JavaScript` 教程。[在线体验](https://wangdoc.com/javascript/)
 - [lucky-canvas](https://github.com/buuing/lucky-canvas) - 基于 `TS ` + `Canvas` 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件。[在线文档](https://100px.net/)
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - 以分类的形式，展示不同 `CSS` 属性或者不同的课题使用 `CSS` 来解决的各种方法。[在线体验](https://csscoco.com/inspiration/#/./init)
@@ -444,6 +448,10 @@
 - [cnchar](https://github.com/theajack/cnchar) - 功能全面的汉字工具库。[在线文档](https://theajack.github.io/cnchar/)
 - [webvm](https://github.com/leaningtech/webvm) - 一个运行在浏览器中的 `Linux` 虚拟机。[在线体验](https://webvm.io/)
 - [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
+- [v86](https://github.com/copy/v86) - 一个基于 `Web` 的 `x86` 模拟器，它通过将机器代码即时编译为 `WebAssembly` 来实现出色的性能。[在线体验](https://copy.sh/v86/)
+- [melody](https://github.com/foamzou/melody) - 音乐管理工具。
+- [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html)
+- [WebGAL](https://github.com/OpenWebGAL/WebGAL) - 全新的网页端视觉小说引擎。[在线体验](https://demo.openwebgal.com/) [在线文档](https://docs.openwebgal.com/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -501,6 +509,7 @@
 - [pure-live-core](https://github.com/iyear/pure-live-core) - 一个想让直播回归纯粹的项目。
 - [fx](https://github.com/antonmedv/fx) - 终端 `JSON` 查看器和处理器。[在线文档](https://fx.wtf/)
 - [go-file](https://github.com/songquanpeng/go-file) - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
+- [superfile](https://github.com/yorukot/superfile) - 一个现代终端文件管理器，为命令行文件操作提供了一个直观且漂亮的界面。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -533,6 +542,8 @@
 - [RuoYi-Flowable-Plus](https://github.com/KonBAI-Q/RuoYi-Flowable-Plus) - 基于 `RuoYi-Vue-Plus` 进行二次开发扩展 `Flowable` 工作流功能，支持在线表单设计和丰富的工作流程设计能力。[在线体验](http://159.75.158.189/)
 - [cxygzl](https://gitee.com/junyue/cxygzl) - 基于 `Flowable` 的开箱即用的低代码开源专业工作流引擎。[在线文档](https://www.cxygzl.com/guide/)
 - [flowlong](https://github.com/aizuda/flowlong) - 工作流引擎、`Json` 格式实例模型、仿飞书钉钉审批流程设计器。[在线体验](https://flowlong.gitee.io/flowlong-designer/)
+- [oa_system](https://gitee.com/aaluoxiang/oa_system) - 一个 `OA` 办公自动化系统。[在线体验](http://101.43.32.218:8088/index)
+- [JFinalOA](https://gitee.com/glorylion/JFinalOA) - 基于 `JFinal` 框架开发的企业办公系统。[在线体验](http://admin.dianshixinxi.com:90/index)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -648,7 +659,7 @@
 - [dashdot](https://github.com/MauriceNino/dashdot) - 一个简单、现代的**服务器仪表板**，主要用于小型私人服务器。[在线体验](https://dash.mauz.dev/)
 - [dozzle](https://github.com/amir20/dozzle) - 一个开源的日志查看器，用于监视和查看 `Docker` 容器的实时日志。它提供一个简单而直观的 `Web` 界面，让用户可以方便地查看运行中的 `Docker` 容器的日志。[在线文档](https://dozzle.dev/guide/getting-started)
 - [MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - 一个针对高并发、低延迟应用设计的高性能 `Java` 性能监控和统计工具。
-- [qinglong](https://github.com/whyour/qinglong) - 支持 `Python3`、`JavaScript`、`Shell`、`Typescript` 的定时任务管理平台。[在线体验](http://demo.dlww.cc:4433/)
+- [qinglong](https://github.com/whyour/qinglong) - 支持 `Python3`、`JavaScript`、`Shell`、`Typescript` 的定时任务管理平台。[在线体验](http://demo.ninesix.cc:4433/login) [在线文档](https://qinglong.online/index)
 - [nightingale](https://github.com/ccfos/nightingale) - 告警管理专家，一体化的开源可观测平台。[在线文档](https://flashcat.cloud/docs/)
 - [jumpserver](https://github.com/jumpserver/jumpserver) - **开源堡垒机**，符合 4A 规范的专业**运维安全审计系统**。[在线体验](https://demo.jumpserver.org/) [在线文档](https://docs.jumpserver.org/zh/v3/)
 - [nezha](https://github.com/naiba/nezha) - 开源、轻量、易用的服务器监控、运维工具。[在线体验](https://ops.naibahq.com/) [在线文档](https://nezha.wiki/)
@@ -667,6 +678,8 @@
 - [sampler](https://github.com/sqshq/sampler) - 一款基于 `Shell` 命令的可视化监控工具。[在线文档](https://sampler.dev/)
 - [dpanel](https://github.com/donknap/dpanel) - `Docker` 可视化面板系统。[在线体验](https://demo.dpanel.cc/dpanel/ui/home) [在线文档](https://doc.dpanel.cc/#/)
 - [dockge](https://github.com/louislam/dockge) - 一个精美、易于使用、自托管的 `Docker` 管理工具。
+- [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -717,6 +730,7 @@
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 一个轻量级的AI证件照制作算法。[在线体验](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)
 - [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI`/`GUI`/`Docker`. [在线体验](https://pdf2zh.com/)
+- [MagicMirror](https://github.com/idootop/MagicMirror) - 一键 `AI` 换脸、发型、穿搭，发现更美的自己。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -728,6 +742,7 @@
 - [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 - [polyglot](https://github.com/liou666/polyglot) - 跨平台 `AI` 语言练习应用。[在线体验](https://polyglotai.xyz/)
 - [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入。[在线文档](https://docs.link-ai.tech/cow/quick-start)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -749,6 +764,7 @@
 - [pilipala](https://github.com/guozhigq/pilipala) - 使用 `Flutter` 开发的 `BiliBili` 第三方客户端。
 - [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站 `web` 移动端。
 - [12306](https://github.com/nageoffer/12306) - 仿 12306 铁路购票系统。[在线体验](http://12306.magestack.cn) [在线文档](https://nageoffer.com/12306/)
+- [instagram-mern](https://github.com/jigar-sable/instagram-mern) - 仿 `Instagram` 项目。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -834,6 +850,7 @@
 - [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
 - [MallChat](https://github.com/zongzibinbin/MallChat) - 一个既能购物又能聊天的电商系统。[在线体验](https://mallchat.cn/)
 - [aq-chat-server](https://gitee.com/howcode/aq-chat-server) - 一个接入 `AI` 的极速、便捷的匿名在线即时聊天(`IM`).[在线体验](https://www.aqchat.run/) [在线文档](https://docs.aqchat.run/)
+- [fiora](https://github.com/yinxin630/fiora) - 一个有趣的开源聊天应用。[在线体验](https://fiora.suisuijiang.com/) [在线文档](https://yinxin630.github.io/fiora/zh-Hans/docs/getting-start/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -875,6 +892,9 @@
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - `GitHub` 主页介绍 `README `生成器。[在线体验](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [stackedit](https://github.com/benweet/stackedit) - 在线浏览器 `Markdown` 编辑器。[在线体验](https://stackedit.io/app#)
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges) - `Markdown` 徽章。[在线体验](https://ileriayo.github.io/markdown-badges/)
+- [markitdown](https://github.com/microsoft/markitdown) - 将文件和 `Office` 文档转换为 `Markdown` 的 `Python` 工具。
+- [markwhen](https://github.com/mark-when/markwhen) - 一款从 `Markdown` 文本创建美观的层级时间线的工具。[在线体验](https://markwhen.com/)
+- [editor](https://github.com/umodoc/editor) - 一个基于 `Vue3` 和 `Tiptap` 的适合于国人使用的本土化开源文档编辑器。[在线体验](https://demo.umodoc.com/editor?lang=zh-CN) [在线文档](https://editor.umodoc.com/cn/docs)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -955,6 +975,9 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
+- [cherry-studio](https://github.com/CherryHQ/cherry-studio) - 一款支持多个大语言模型（`LLM`）服务商的桌面客户端，兼容 `Windows`、`Mac` 和 `Linux` 系统。
+- [proxypin](https://github.com/wanghongenpin/proxypin) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
+- [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -978,6 +1001,7 @@
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
 - [octotree](https://github.com/ovity/octotree) - 浏览器插件，可以按照树状图的方式展示 `Github` 项目的结构，以及提供了快速搜索、变更预览等功能。
 - [ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 支持拼音输入法自动补全的 `JetBrains` 插件。
+- [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - 优化 `bilibili` 网站界面的浏览器插件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1066,6 +1090,7 @@
 - [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
 - [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
 - [mediago](https://github.com/caorushizi/mediago) - `m3u8` 视频在线提取、流媒体下载、视频下载、`m3u8` 视频下载、B站视频下载工具。[在线文档](https://downloader.caorushizi.cn/guides.html?form=github)
+- [res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1090,6 +1115,9 @@
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [gitstars](https://github.com/cfour-hi/gitstars) - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
+- [elasticvue](https://github.com/cars10/elasticvue) - 一个免费且开源的 `Elasticsearch` 图形用户界面。
+- [code996](https://github.com/hellodigua/code996) - 一个可以统计 `Git` 项目的 `commit` 时间分布工具。[在线文档](https://hellodigua.github.io/code996/#/)
+- [xpipe](https://github.com/xpipe-io/xpipe) - 一款好用的终端工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1097,6 +1125,8 @@
 ## 游戏项目
 
 - [server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！[在线体验](http://ratel.isnico.com/)
+- [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
+- [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1183,9 +1213,11 @@
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍。
 - [awesome-ops](https://github.com/eryajf/awesome-ops) - 记录每一个与运维相关的优秀项目。
 - [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
-- [awesome-go](https://github.com/avelino/awesome-go) - 优秀的 Go 框架、库和软件的精选合集。[在线体验](https://awesome-go.com/)
+- [awesome-go](https://github.com/avelino/awesome-go) - 优秀的 `Go` 框架、库和软件的精选合集。[在线体验](https://awesome-go.com/)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 程序员常用高效实用工具、软件资源精选，办公效率提升利器。
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
+- [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 集成 `DeepSeek` 模型的开源项目或者软件合集。
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - `VS Code` 插件集合项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
